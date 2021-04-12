@@ -15,7 +15,7 @@ namespace MintaMZ
             string [] sorok = File.ReadAllLines("forras.txt");
 
             //adatok száma
-
+            int N = sorok.Length; //Ha van fejléc, akkor -1
             //legtöbb vmi
 
             //van-e egy valamilyen
